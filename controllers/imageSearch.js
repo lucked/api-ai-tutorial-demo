@@ -4,8 +4,8 @@ const request = require('request');
 
 module.exports = (req, res) => {
     if (req.body.result.action === 'image') {
-        let imageName = req.body.result.parameters['image_name'];
-        let apiUrl = 'https://api.gettyimages.com/v3/search/images?fields=id,title,thumb,referral_destinations&sort_order=best&phrase=' + imageName;
+        const imageName = req.body.result.parameters['image_name'];
+        const apiUrl = 'https://api.gettyimages.com/v3/search/images?fields=id,title,thumb,referral_destinations&sort_order=best&phrase=' + imageName;
 
         request({
             uri: apiUrl,
