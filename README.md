@@ -1,6 +1,6 @@
 #BotCube Tutorial Facebook Messenger Chatbot
 
-This is a source code of a bot created during [this tutorial](https://botcube.co/blog/2017/02/20/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html) - [here](https://botcube.co/blog/2017/02/20/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html) at [Botcube company blog](https://botcube.co/blog).
+This is a source code of a bot created during [this tutorial](https://botcube.co/blog/2017/02/23/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html?utm_source=github) - [here](https://botcube.co/blog/2017/02/23/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html?utm_source=github) at [Botcube company blog](https://botcube.co/blog).
 
 This chatbot is built with [Facebook Messenger Bot platform](https://developers.facebook.com/),
 [API.ai](https://api.ai), and [Getty Images API](http://developers.gettyimages.com/en/).
